@@ -8,6 +8,8 @@
  - 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la **Escuela Politécnica Nacional**
  - 🖥️ Actualmente aprendiendo Javascript.
  - 🗂️ Visita mi **portafolio.**
+ - 📄 Visita mi **[CV](https://mnf.red/e6a7e1ef-7bd2-49ce-a77f-8d1fea9acc4d/classic)**
+  
 
 ### Lenguajes y herramientas 🛠️:
 <div>
